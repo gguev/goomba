@@ -1,0 +1,67 @@
+Date : 2022-10-23 22:21:23
+Directory : c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2
+Total : 27 files,  3630 codes, 9 comments, 138 blanks, all 3777 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      3,064 |          0 |          2 |      3,066 |
+| TypeScript React   |         12 |        469 |          0 |        109 |        578 |
+| JavaScript         |          3 |         37 |          2 |          3 |         42 |
+| TypeScript         |          4 |         22 |          7 |         11 |         40 |
+| JSON with Comments |          1 |         20 |          0 |          1 |         21 |
+| Markdown           |          1 |         15 |          0 |          9 |         24 |
+| CSS                |          3 |          3 |          0 |          3 |          6 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                        | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                           |         27 |      3,630 |          9 |        138 |      3,777 |
+| components                                                                                  |          4 |         80 |          0 |         22 |        102 |
+| components\Footer                                                                           |          2 |         16 |          0 |          3 |         19 |
+| components\Header                                                                           |          2 |         64 |          0 |         19 |         83 |
+| lib                                                                                         |          2 |         12 |          2 |          6 |         20 |
+| pages                                                                                       |         11 |        399 |          1 |         92 |        492 |
+| pages\api                                                                                   |          1 |         10 |          1 |          3 |         14 |
+| pages\videos                                                                                |          1 |         40 |          0 |         10 |         50 |
+| public                                                                                      |          1 |          1 |          0 |          0 |          1 |
+| public\images                                                                               |          1 |          1 |          0 |          0 |          1 |
+| styles                                                                                      |          1 |          3 |          0 |          1 |          4 |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                    | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\README.md                           | Markdown           |         15 |          0 |          9 |         24 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\components\Footer\Footer.module.css | CSS                |          0 |          0 |          1 |          1 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\components\Footer\Footer.tsx        | TypeScript React   |         16 |          0 |          2 |         18 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\components\Header\Header.module.css | CSS                |          0 |          0 |          1 |          1 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\components\Header\Header.tsx        | TypeScript React   |         64 |          0 |         18 |         82 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\lib\getVideo.ts                     | TypeScript         |          6 |          1 |          3 |         10 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\lib\getVideos.ts                    | TypeScript         |          6 |          1 |          3 |         10 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\next-env.d.ts                       | TypeScript         |          0 |          4 |          2 |          6 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\next.config.js                      | JavaScript         |          3 |          1 |          1 |          5 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\package-lock.json                   | JSON               |      3,033 |          0 |          1 |      3,034 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\package.json                        | JSON               |         30 |          0 |          1 |         31 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\[...url].tsx                  | TypeScript React   |         30 |          0 |          8 |         38 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\[channel].tsx                 | TypeScript React   |         40 |          0 |         10 |         50 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\_app.tsx                      | TypeScript React   |          6 |          0 |          3 |          9 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\_document.tsx                 | TypeScript React   |         12 |          0 |          1 |         13 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\about.tsx                     | TypeScript React   |         31 |          0 |          4 |         35 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\api\hello.ts                  | TypeScript         |         10 |          1 |          3 |         14 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\features.tsx                  | TypeScript React   |         46 |          0 |          8 |         54 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\index.tsx                     | TypeScript React   |         99 |          0 |         26 |        125 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\results.tsx                   | TypeScript React   |         45 |          0 |         10 |         55 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\videos\[videoID].tsx          | TypeScript React   |         40 |          0 |         10 |         50 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\pages\watch.tsx                     | TypeScript React   |         40 |          0 |          9 |         49 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\postcss.config.js                   | JavaScript         |          6 |          0 |          1 |          7 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\public\images\site.webmanifest      | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\styles\globals.css                  | CSS                |          3 |          0 |          1 |          4 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\tailwind.config.js                  | JavaScript         |         28 |          1 |          1 |         30 |
+| c:\Users\guill\Documents\Code\Projects\Goomba\goomba_v2\tsconfig.json                       | JSON with Comments |         20 |          0 |          1 |         21 |
+| Total                                                                                       |                    |      3,630 |          9 |        138 |      3,777 |
++---------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
