@@ -41,7 +41,7 @@ const FeaturesPage = () => {
           <li className='text-white text-xl pb-3'>goomba.com/https://www.youtube.com/watch?v=-ZVZgCrHy5E</li>
           <li className='text-white text-xl pb-3'>goomba.com/https://www.twitch.tv/ratirl/</li>
         </ul>  
-        <p className='text-white text-xl pb-3'>They'll take you straight to the video.</p>
+        <p className='text-white text-xl pb-3'>They'll also take you straight to the video.</p>
       </div>
 
 

@@ -5,7 +5,7 @@ import { useRouter } from 'next/router'
 import { ChangeEvent, FormEvent, useState } from 'react'
 import { Footer } from '../components/Footer/Footer'
 
-const Home: NextPage = (props) => {
+const Home: NextPage = (props: any) => {
   const { exampleVideo } = props
   const [isFocused, setIsFocused] = useState(false)
   const [searchQuery, setSearchQuery] = useState('')

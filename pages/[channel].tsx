@@ -6,7 +6,7 @@ import Header from '../components/Header/Header'
 
 import { GetServerSidePropsContext } from 'next'
 
-const ChannelPage = (props) => {
+const ChannelPage = (props: { channel: any; }) => {
   const { channel } = props
 
   return (

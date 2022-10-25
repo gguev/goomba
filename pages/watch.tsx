@@ -4,7 +4,7 @@ import getVideo from '../lib/getVideo'
 import Plyr from "plyr-react"
 import "plyr-react/plyr.css"
 
-const WatchPage = (props) => {
+const WatchPage = (props: { video: any }) => {
   const { video } = props
 
   return (
@@ -34,7 +34,7 @@ const WatchPage = (props) => {
   )
 }
 
-export async function getServerSideProps(ctx) {
+export async function getServerSideProps(ctx: { query: { v: any } }) {
   const { v: videoID } = ctx.query
 
   const res = await getVideo(videoID)

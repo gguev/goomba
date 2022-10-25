@@ -6,7 +6,7 @@ import Header from '../../components/Header/Header';
 
 import { GetServerSidePropsContext } from 'next'
 
-const VideoPage = (props) => {
+const VideoPage = (props: { videoID: any; }) => {
   const { videoID } = props
 
   return (
