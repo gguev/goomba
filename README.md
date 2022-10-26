@@ -5,6 +5,8 @@ Goomba is the ported and updated version of [Layluh](https://github.com/gguev/la
 
 -   [Next.js](https://nextjs.org/)
 -   [TypeScript](https://www.typescriptlang.org/)
+-   [Tailwind CSS](https://tailwindcss.com/)
+-   [DaisyUI](https://daisyui.com/)
 
 ## Development
 
