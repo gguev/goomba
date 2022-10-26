@@ -1,5 +1,5 @@
 # Goomba
-Goomba is the ported and updated version of Layluh. It is built with Next.js and TypeScript.
+Goomba is the ported and updated version of [Layluh](https://github.com/gguev/layluh). Like Layluh, Goomba is a minimalist frontend alternative to YouTube and Twitch. It is built with Next.js and TypeScript.
 
 ## Features
 
